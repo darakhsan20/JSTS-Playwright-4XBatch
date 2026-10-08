@@ -11,11 +11,11 @@ var ab123 = 23;
 // var 45 = 34;
 var _ = 10;
 
-var Name = "pramod";
+var Name = "Tazeen";
 var name = "Amit";
 
-var pramod_dutta = "hello";
-var pramod$dutta = "hello";
-var pramodu1232 = "hello";
+var dtazeen = "hello";
+var d$tazzen = "hello";
+var dtazzeen123 = "hello";
 
-// var pramod dutta = "hello";
+// var d tazeen = "hello";
